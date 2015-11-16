@@ -17,7 +17,6 @@ Map: https://goo.gl/maps/YGHTDFVemU42
 
 ## Elsewhere on the 'net
  * Meetup: http://www.meetup.com/Computer-Graphics-on-the-Web/
- * Github page: https://spaxe.github.com/cgweb
 
 ## Sponsors
 Without our sponsors this meetup wouldn't be possible. [Common Code](http://commoncode.com.au/) for providing us an event space. [Khronos Melbourne Chapter](http://www.meetup.com/Khronos-Melbourne-Chapter/) for providing food and drinks.
