@@ -6,6 +6,12 @@ We’re a bunch of programmers, designers, artists and animators who want to use
 ## Next Meetup
 Join us for two presentations on animations and code! (More details to come.) After that, food and drinks are there for you to mingle with!
 
+**Drawing Biological Molecules with WebGL**
+
+Bosco Ho, Monash University
+
+This talk covers aspects of cobbling together my web-based molecular viewer http://jolecule.com, which recently got a three.js facelift. Some topics I might cover: how to represent in a scene that goes between front-end and back-end. Constructing pleasing 3D geometries. Difficult choices in interface design. Lessons in ripping out old modules. Animating scenes automatically.
+
 **Animation + Code**
 
 Kristina Johnson, CSIRO
