@@ -12,6 +12,8 @@ The January #CGWeb meetup for 2016 features Ri Liu and Hugh Kennedy on data visu
 
 Ri Liu
 
+Ri will be going through her approach to creating web-based data visualisations. Starting with a short primer on data vis, followed by a look at the best tools to use (spoiler alert, it's D3) and then a breakdown of process. She will be covering a few of her projects including [Close The Gap](http://closethegap.studiometric.co/), [Motion Data](http://ri.id.au/posts/motion-data), [China Is Not a Rogue Donor](https://www.foreignaffairs.com/infographics/2015-10-15/china-not-rogue-donor) (for Foreign Affairs magazine) and [Gender dynamics in my social network](http://ri.id.au/posts/biases).
+
 **Manipulating Implicit Surfaces for Shiny Visuals**
 
 Hugh Kennedy
