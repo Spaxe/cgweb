@@ -5,22 +5,28 @@ We’re a bunch of programmers, designers, artists and animators who want to use
 
 ## Next Meetup
 
-[RSVP Here!](http://www.meetup.com/Computer-Graphics-on-the-Web/events/227125491/)
-The January #CGWeb meetup for 2016 features Ri Liu and Hugh Kennedy on data visualisation and implicit geometry rendering. Dribbles and nibbles will be provided after the talks for you to mingle.
+[RSVP Here!](http://www.meetup.com/Khronos-Melbourne-Chapter/events/228221875/)
+Two speakers will talk about their works in information visualisation (Florence Wang) and stereoscopic virtual reality (Björn Sommer). Food and drinks are provided after the talks for you to nibble and converse.
 
-**Visualising Data with Code**
+**Visual Analytics Medley**
 
-Ri Liu
+Florence Wang, CSIRO
 
-Ri will be going through her approach to creating web-based data visualisations. Starting with a short primer on data vis, followed by a look at the best tools to use (spoiler alert, it's D3) and then a breakdown of process. She will be covering a few of her projects including [Close The Gap](http://closethegap.studiometric.co/), [Motion Data](http://ri.id.au/posts/motion-data), [China Is Not a Rogue Donor](https://www.foreignaffairs.com/infographics/2015-10-15/china-not-rogue-donor) (for Foreign Affairs magazine) and [Gender dynamics in my social network](http://ri.id.au/posts/biases).
+“Visual analytics integrates the analytic capabilities of the computer and abilities of the human analyst, thus allowing novel discoveries and empowering individuals to take control of the analytical process.” — Mastering the Information Age Solving Problems with Visual Analytics
 
-**Manipulating Implicit Surfaces for Shiny Visuals**
+In this talk, Florence will take you through the journey of her understanding of visual analytics by presenting a few applications she has developed in the past, which includes a visualisation research work, “sentiCompass”, for exploring and comparing the sentiments of time varying twitter data; And then furthermore, a market research visual analytics application for analysing supermarket consumer navigation path using eye tracking devices.
 
-Hugh Kennedy
+**Stereoscopic Virtual Reality on the Web**
 
-More details to come.
+Bjorn Sommer, Monash University/Konstanz University
 
-When: 19 January 2016, 6:15pm for 6:30pm start
+After the hype of Stereoscopic 3D (S3D) technologies around the year 2011, internationally initiated by the movie Avatar, now the next hype is about to start: Head-Mounted Displays (HMD) are promised to be the next revolution in consumer electronics.
+
+But are HMDs really new? This talk will discuss a few historical facts concerning S3D which are often unknown to the public, as well as the basic technical knowledge about S3D visualization. We will give a short overview on full-immersive technologies – such as Oculus Rift and Google Cardboard – as well as semi-immersive ones, such as CAVEs and zSpace. Also, the way to present S3D movies in the Web with YouTube will be discussed.
+
+Many topics will be based on the 27th conference on Stereoscopic Displays and Applications which just finished a few weeks ago in San Francisco, and where our latest CELLmicrocosmos animation won the best of show award in the animation category.
+
+When: 1 March 2016, 6:15pm for 6:30pm start
 
 Where: Common Code (https://goo.gl/maps/YGHTDFVemU42)
 
@@ -28,9 +34,7 @@ Directions: Take the train from Parliament Station to Victoria Park or Collingwo
 
 The presentation format is 20 minutes + 10 minutes Q&A.
 
-Computer Graphics on the Web is kindly sponsored by Common Code for its excellent managers and event venue. Food and drinks are sponsored by the wonderful Khronos Group, the open standards body for OpenGL and friends.
-
-This meetup is co-located and hosted by the Khronos Melbourne Chapter.
+Computer Graphics on the Web is kindly sponsored by Common Code for its excellent managers and event venue. Food and drinks are sponsored by the wonderful Khronos Group, the open standards body for WebGL and friends.
 
 We hope to see you at the event!
 
