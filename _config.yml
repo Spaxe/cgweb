@@ -1,0 +1,8 @@
+title: Computer Graphics on the Web
+description: Computer Graphics on the Web is a Melbourne meetup for developers, designers, animators, and programmers interested in web-based interactive graphics.
+google_analytics: UA-9313283-3
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
